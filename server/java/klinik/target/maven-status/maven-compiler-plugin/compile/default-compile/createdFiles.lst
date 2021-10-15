@@ -1,0 +1,6 @@
+org/dita/klinik/PatientApplication.class
+org/dita/klinik/PatientRepository.class
+org/dita/klinik/PatientController.class
+org/dita/klinik/Patient.class
+org/dita/klinik/CompositeKey.class
+org/dita/klinik/LoadDatabase.class
